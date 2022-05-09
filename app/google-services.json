@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994287505589",
+    "project_id": "mygiftbasket-27c1f",
+    "storage_bucket": "mygiftbasket-27c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994287505589:android:4faddd4a7b2eb4317aeefc",
+        "android_client_info": {
+          "package_name": "com.example.mygiftbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994287505589-0rloqq5f7aincicf1u1a4vg6pbgekobr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgcVgzkxE4oeh5hJ0O0Qx8bYFiB8slTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994287505589-0rloqq5f7aincicf1u1a4vg6pbgekobr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
